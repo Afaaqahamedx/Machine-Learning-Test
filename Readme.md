@@ -21,9 +21,7 @@
 
 <p>
   Each assignment is designed to challenge your problem-solving skills and
-  deepen your understanding of machine learning applications in various domains.
-  🌐 Don't forget to check for updates and additional resources as you progress
-  through the assignments.
+  deepen your understanding of machine learning applications in various domains 🌐
 </p>
 
 <p></p>
